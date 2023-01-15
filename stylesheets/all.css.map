@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "sources": [
+        "custom/_index.scss",
+        "all.css"
+    ],
+    "names": [],
+    "mappings": "AAAA;EACI,UAAA;ACCJ",
+    "file": "all.css"
+}
